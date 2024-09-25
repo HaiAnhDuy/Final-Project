@@ -33,7 +33,7 @@ Công nghệ sử dụng trong dự án:
 #### 2.Fact 
 ![image](https://github.com/user-attachments/assets/dc79a8eb-21fd-4be7-b4f0-6f7b82145412)
 
-### - Bước 6: Xây dựng dashboard bằng Power PI
+### - Bước 6: Xây dựng dashboard bằng Power PI dựa trên DW vừa xây dựng
 ![image](https://github.com/user-attachments/assets/4763fbb2-9e14-4000-ac67-8170184a97e9)
 
 
